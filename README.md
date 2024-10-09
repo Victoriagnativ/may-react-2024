@@ -1,3 +1,5 @@
+# Homework1 
+in this homework about components and props
 # Project location
 https://github.com/OktenSchool/may-2024-react
 
